@@ -7,9 +7,9 @@
   if (currentHour >= 5 && currentHour < 12) {
     greeting = "Good morning by UNIFINED OFC (Wilsmac)";
   } else if (currentHour >= 12 && currentHour < 18) {
-    greeting = "Good afternoon by UNIFINED OFC (Wilsmac)";
+    greeting = "Good afternoon\nUNIFINED OFC";
   } else {
-    greeting = "Good night by UNIFINED OFC (Wilsmac)";
+    greeting = "Good night\nUNIFINED OFC";
   }
 </script>
 
